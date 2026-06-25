@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-temps-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Le Temps De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-temps-de-lamour/) |
+| **Get License** | [Music Rights & Licensing for Le Temps De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-temps-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ea96101189521b127cbdfef04f1b6924a558cd3b9ea4348626a4f1a4c4709a3f` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
